@@ -80,6 +80,7 @@ I have finished course **RS School** ***"JS Frontend developer pre-school (stage
 * **[CV](https://laevus92.github.io/rsschool-cv-stage-0-/)**
 * **[Plants](https://laevus92.github.io/rsschool-cv-stage-0-/plants/)**
 * **[Momentum](https://laevus92-momentum.netlify.app/)**
+
 I hope I'll have oportunity to improve my JS knoweledge and increase my expirience step by step in real job because I really interested in IT-technologies especially in JS.
 *********
 
